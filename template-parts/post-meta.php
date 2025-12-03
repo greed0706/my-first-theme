@@ -1,1 +1,0 @@
-<p>Đăng bởi: <?php the_author(); ?> | Ngày: <?php the_date(); ?></p>
